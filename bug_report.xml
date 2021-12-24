@@ -2,7 +2,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <bug_report>
   <ID>1<ID>
-  <Title>Отсутствует изображение на главной странице<Title>
-  <Steps_to_reproduce>Зайти на страницу http://artstamp.ru/?page=start<Steps_to_reproduce>
-  <AR>Отсутствует изображение<AR>
-  <EXP>Присутствует изображение<EXP>
+  <Title>Отсутствует_изображение_на_главной_странице<Title>
+  <Steps_to_reproduce>Зайти_на_страницу_http://artstamp.ru/?page=start<Steps_to_reproduce>
+  <AR>Отсутствует_изображение<AR>
+  <EXP>Присутствует_изображение<EXP>
+<bug_report>
